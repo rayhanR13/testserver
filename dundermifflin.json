@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Scott",
+        "position": "Regional Manager"
+    },
+    {
+        "id": 2,
+        "name": "Dwight Schrute",
+        "position": "Assistant to the Regional Manager"
+    },
+    {
+        "id": 3,
+        "name": "Jim Halpert",
+        "position": "Salesman"
+    },
+    {
+        "id": 4,
+        "name": "Pam Beesley",
+        "position": "Receptionist"
+    }
+]
